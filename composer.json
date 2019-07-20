@@ -1,0 +1,30 @@
+{
+    "name": "kadekjayak/bi-rates",
+    "description": "Simple library to get currency rate from Bank Indonesia",
+    "keywords": ["currency rates", "indonesia", "scrape"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Kadek Jayak",
+            "email": "kadekjayak@yahoo.co.id"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Kadekjayak\\BiRates\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Kadekjayak\\Tests\\": "tests/"
+        }
+    },
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^8.2"
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
