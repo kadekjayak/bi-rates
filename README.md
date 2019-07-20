@@ -41,4 +41,4 @@ $ phpunit
 ```
 
 ## License
-The MIT License (MIT). Please see [License File](https://github.com/kadekjayak/bi-rates/blob/master/LICENSE) for more information.
+The MIT License (MIT). Please see [License File](https://github.com/kadekjayak/bi-rates/blob/master/LICENSE.md) for more information.
